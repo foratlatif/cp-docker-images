@@ -3,7 +3,9 @@
 |cp| Docker Quick Start
 =======================
 
-This quick start provides a basic guide for deploying a Kafka cluster along with all |cp| components in your Docker
+This quick start provides a
+
+basic guide for deploying a Kafka cluster along with all |cp| components in your Docker
 environment.  By the end of this quick start, you will have a functional |cp| deployment that you can use to run applications.
 
 This quick start builds a single node Docker environment. You will configure Kafka and |zk| to store data locally in their
