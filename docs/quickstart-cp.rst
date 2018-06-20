@@ -114,9 +114,9 @@ Configure your Docker Environment
        kafka_1      | [2017-08-31 00:31:40,436] INFO [Partition state machine on Controller 1]: Started partition state machine with initial state -> Map() (kafka.controller.PartitionStateMachine)
        kafka_1      | [2017-08-31 00:31:40,540] INFO [Kafka Server 1], started (kafka.server.KafkaServer)
 
--------------------------------
-Create a Topic and Produce Data
--------------------------------
+=======================================
+Step 2. Create a Topic and Produce Data
+=======================================
 
 In this step you will create a topic and produce data to it. You'll use the client tools directly from another Docker
 container.
